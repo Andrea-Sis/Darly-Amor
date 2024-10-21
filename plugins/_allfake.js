@@ -59,7 +59,7 @@ showAdAttribution: true,
 title: '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻',
 body: 'Super Bot de WhatsApp ⭐',
 previewType: "PHOTO",
-thumbnailUrl: 'https://i.ibb.co/qBxdwZW/file.jpg',
+thumbnailUrl: 'https://f.uguu.se/wFxgyzKo.jpg',
 sourceUrl: 'https://www.instagram.com/sisked_1',
 mediaType: 1,
 renderLargerThumbnail: false
